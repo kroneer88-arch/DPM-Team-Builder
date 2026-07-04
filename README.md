@@ -8,7 +8,7 @@
 專為《鳴潮》(Wuthering Waves)「矩陣疊兵」模式設計的純前端開源編隊與 DPS 計算輔助工具。
 提供全角色的配隊數據查閱，內建 **「雙引擎編隊最佳化」**、**「120秒接力推演引擎」** 與 **「魔法資料解析器」**，協助玩家在有限的角色池與疲勞值內，計算出符合自身手感的合適通關陣容。
 
-🌐 **[點此直接使用工具 (Live Demo)](https://indychen.github.io/DPM-Team-Builder/)**
+🌐 **[點此直接使用工具 (Live Demo)](https://indychen.github.io/DPM-Team-Builder5.0.0/)**
 
 ---
 
